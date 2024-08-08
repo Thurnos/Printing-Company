@@ -1,0 +1,23 @@
+Printing Shop Report
+---------------------
+Publications:
+Title: Book 1
+Page Count: 100
+Paper Type: Plain
+
+Title: Book 2
+Page Count: 150
+Paper Type: Newsprint
+
+Employees: 2
+Base Salary: 2000.0
+Salary Expenses: 4000.0
+
+Paper Price: 0.05
+Total Paper Count: 250
+Paper Expenses: 12.5
+
+Price per Publication: 10.0
+Total Printed Publications: 500
+Revenue: 5000.0
+Manager Bonus: 0.0

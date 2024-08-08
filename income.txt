@@ -1,0 +1,5 @@
+INCOME
+Book income 7440.66125
+NewsPaper income 2025.2099999999998
+Poster income 271.32
+SumIncome 11203.431937500001
